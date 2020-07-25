@@ -1,9 +1,9 @@
 h2 {
-  color:blueviolet;
+  color:black;
   font: "Arial"
 }
 h1 {
-  color: blueviolet;
+  color: black;
   font: "Arial"
 }
 #ProjectOne{
@@ -38,4 +38,7 @@ h1 {
 }
 #Contact {
   color:orchid;
+}
+.jumbotron{
+  background-image: url(https://www.picgifs.com/wallpapers/wallpapers/marble/wallpapers-marble-171512.jpg)
 }
